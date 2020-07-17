@@ -26,6 +26,10 @@ The character encoding of the document is defined by the `charset` attribute. It
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
+#### Additional information
+
+- https://www.w3schools.com/css/css_rwd_viewport.asp
+
 ### [index.html#L11](https://github.com/RA80533/bookish-eureka/blob/f68980ee123d297a2eaf5c031962199ddb2dd77b/index.html#L11)
 
 ```html
