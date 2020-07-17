@@ -18,7 +18,7 @@ The character encoding of the document is defined by the `charset` attribute. It
 
 #### Additional information
 
-- […]
+- https://www.w3schools.com/html/html_charset.asp
 
 ### [index.html#L9](https://github.com/RA80533/bookish-eureka/blob/f68980ee123d297a2eaf5c031962199ddb2dd77b/index.html#L9)
 
