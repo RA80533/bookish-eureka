@@ -10,11 +10,15 @@
 
 ### [index.html#L5](https://github.com/RA80533/bookish-eureka/blob/f68980ee123d297a2eaf5c031962199ddb2dd77b/index.html#L5)
 
-The character encoding of the document is defined by the `charset` attribute. It should be within the first 1028 bytes of the file.
+The character encoding of the document is defined by the `charset` attribute. It should be within the first 1028 bytes of the file.<sup id="sup-1">[[1]](#ref-1)</sup>
 
 ```html
 <meta charset="UTF-8">
 ```
+
+#### Additional information
+
+- […]
 
 ### [index.html#L9](https://github.com/RA80533/bookish-eureka/blob/f68980ee123d297a2eaf5c031962199ddb2dd77b/index.html#L9)
 
@@ -33,3 +37,7 @@ The character encoding of the document is defined by the `charset` attribute. It
 ```html
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 ```
+
+## References
+
+1. [^](#sup-1) <span id="ref-1">https://www.w3.org/International/questions/qa-html-encoding-declarations</span>
