@@ -10,7 +10,7 @@
 
 ### [index.html#L5](https://github.com/RA80533/bookish-eureka/blob/f68980ee123d297a2eaf5c031962199ddb2dd77b/index.html#L5)
 
-The character encoding of the document is defined by the `charset` attribute. It should be within the first 1028 bytes of the file.<sup id="sup-1">[[1]](#ref-1)</sup>
+The character encoding of the document is defined by the `charset` attribute. It should be within the first 1028 bytes of the file.<sup id="user-content-sup-1">[[1]](#ref-1)</sup>
 
 ```html
 <meta charset="UTF-8">
@@ -40,4 +40,4 @@ The character encoding of the document is defined by the `charset` attribute. It
 
 ## References
 
-1. [^](#sup-1) <span id="ref-1">https://www.w3.org/International/questions/qa-html-encoding-declarations</span>
+1. [^](#user-content-sup-1) <span id="ref-1">https://www.w3.org/International/questions/qa-html-encoding-declarations</span>
