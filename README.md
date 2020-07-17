@@ -10,6 +10,8 @@
 
 ### [index.html#L5](https://github.com/RA80533/bookish-eureka/blob/f68980ee123d297a2eaf5c031962199ddb2dd77b/index.html#L5)
 
+The character encoding of the document is defined by the `charset` attribute. It should be within the first 1028 bytes of the file.
+
 ```html
 <meta charset="UTF-8">
 ```
